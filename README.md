@@ -23,10 +23,6 @@ This is a simple finance dashboard built using React. It helps users track incom
 2. Run `npm install`
 3. Run `npm run dev`
 
-## Author
-
-Padala Indira Sneha
-
 ## Notes
 
 I focused on keeping the UI simple and clean. I used mock data and handled all logic on frontend.
@@ -36,3 +32,7 @@ I focused on keeping the UI simple and clean. I used mock data and handled all l
 - Add edit and delete transaction
 - Add local storage support
 - Improve filtering and charts
+
+## Author
+
+Padala Indira Sneha
